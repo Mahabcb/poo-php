@@ -4,8 +4,8 @@ namespace App;
 
 abstract class AbstractHuman{
 
-    const GENDER_MALE = 'homme';
-    const GENDER_FEMALE = 'femme';
+    const GENDER_MALE = 'Homme';
+    const GENDER_FEMALE = 'Femme';
 
     protected string $name;
     protected string $lastname;
