@@ -1,0 +1,17 @@
+{
+    "name": "maha/exercice1",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maha Bouchiba",
+            "email": "maha.bouchiba@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
